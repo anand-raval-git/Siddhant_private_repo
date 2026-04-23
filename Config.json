@@ -1,0 +1,18 @@
+{
+  "appName": "MyProject",
+  "version": "1.0.0",
+  "api": {
+    "baseUrl": "https://example.com",
+    "timeout": 5000,
+    "retryAttempts": 3
+  },
+  "features": {
+    "enableDarkMode": true,
+    "showTutorial": false
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "dbName": "users_db"
+  }
+}
