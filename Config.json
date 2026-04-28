@@ -7,7 +7,7 @@
     "retryAttempts": 3
   },
   "features": {
-    "enableDarkMode": false,
+    "enableDarkMode": true,
     "showTutorial": false
   },
   "database": {
